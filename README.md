@@ -1,6 +1,6 @@
 #maybe the web functionality won't work because backend is hosted on free server(render).
-#sometime it not work properly 
-#sorry for that
+sometime it not work properly.
+sorry for that
 
 
 
