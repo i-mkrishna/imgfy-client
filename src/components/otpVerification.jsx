@@ -1,5 +1,5 @@
 import { useContext, useState } from "react";
-import {AppContext} from "../Context/AppContext";
+import {AppContext} from "../context/AppContext";
 
 const OtpVerification = () => {
   const { email, requestOtp, verifyOtp, loading } = useContext(AppContext);
