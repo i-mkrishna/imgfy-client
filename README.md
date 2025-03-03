@@ -1,3 +1,14 @@
+#maybe the web functionality won't work because backend is hosted on free server(render).
+#sometime it not work properly 
+#sorry for that
+
+
+
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
