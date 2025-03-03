@@ -17,6 +17,13 @@ import OtpVerification from "./components/otpVerification.jsx";
 const App = () => {
   const { showLogin, isOtpVerified, otpEmail } = useContext(AppContext);
 
+   useEffect(() => {
+    alert(
+      "Welcome to our AI Image Generation Platform!\n\nSome functionality might not work because the backend is hosted on a free server.\nSorry!!!"
+    );
+}, []);
+
+
   return (
     <div className="px-4 sm:px-10 md:px-14 lg:px-28 min-h-screen bg-gradient-to-b from-teal-50 to-orange-50">
       <ToastContainer position="bottom-right" />
