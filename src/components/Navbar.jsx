@@ -1,7 +1,7 @@
 import React, { useContext } from "react";
 import { assets } from "../assets/assets";
 import { Link, useNavigate } from "react-router-dom";
-import { AppContext } from "../Context/AppContext.jsx";
+import { AppContext } from "../context/AppContext.jsx";
 
 const Navbar = () => {
   const { user, setShowLogin, logout, credits } = useContext(AppContext);
