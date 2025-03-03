@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import { BrowserRouter } from "react-router-dom";  // ✅ Import BrowserRouter for routing
-import { AppProvider } from "./Context/AppContext"; // ✅ Import your context provider
+import { AppProvider } from "./context/AppContext"; // ✅ Import your context provider
 import App from "./App"; // ✅ Import the main app component
 
 // Wrap everything with BrowserRouter and AppProvider
