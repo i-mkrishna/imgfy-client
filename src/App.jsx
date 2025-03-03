@@ -10,7 +10,7 @@ import Result from "./pages/result.jsx";
 import Navbar from "./components/Navbar.jsx";
 import Footer from "./components/Footer.jsx";
 import Login from "./pages/Login.jsx";
-import { AppContext } from "./Context/AppContext.jsx";
+import { AppContext } from "./context/AppContext.jsx";
 import ResetPassword from "./components/ResetPassword.jsx";
 import OtpVerification from "./components/otpVerification.jsx";
 
