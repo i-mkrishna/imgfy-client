@@ -1,5 +1,5 @@
 import React, { useState, useContext } from "react";
-import { AppContext } from "../Context/AppContext.jsx";
+import { AppContext } from "../context/AppContext.jsx";
 import { motion } from "framer-motion";
 import { toast } from "react-toastify";
 import ResetPassword from "./ResetPassword.jsx";
